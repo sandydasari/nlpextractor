@@ -8,4 +8,5 @@ pip install -r requirements.txt
 5. Input the required text files into files directory
 6. Run python extract_details.py
 
-
+# Testing the details
+Here it's customized for Bahmni covid reports and to run, use python test_extract_details.py 
